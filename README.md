@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
@@ -14,9 +15,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
