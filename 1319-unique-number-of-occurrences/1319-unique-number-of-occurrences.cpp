@@ -6,13 +6,11 @@ public:
         for(int i = 0; i < n; i++){
             mp[arr[i]]++;
         }
-        vector<int> sec;
         unordered_set<int> st;
         for(auto elem : mp){
-            sec.push_back(elem.second);
+            if(st.find(elem.second) != st.end()) return false;
             st.insert(elem.second);
         }
-        if(sec.size() != st.size()) return false;
         return true;
     }
 };
