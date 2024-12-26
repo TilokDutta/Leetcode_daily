@@ -4,16 +4,14 @@ public:
         int n = words.size();
         int count = 0;
         unordered_set<string> s;
-        for(int i = 0; i < words.size(); i++){
-            s.insert(words[i]);
-        }
         for(int i = 0; i < n; i++){
             string rev = words[i];
             reverse(rev.begin(),rev.end());
             if(rev == words[i]) continue;
-            if(s.find(rev) != s.end()) {
+            if(s.find(rev) != s.end()) {// this is basically o(n);
                 count++;
-                s.erase(words[i]);
+            }else{
+                s.insert(words[i]);
             }
         }
         return count;
