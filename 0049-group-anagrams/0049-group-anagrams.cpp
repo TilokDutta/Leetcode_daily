@@ -6,7 +6,14 @@ public:
         for(int i = 0; i < arr.size(); i++){
             string temp  = arr[i];
             sort(temp.begin(),temp.end());
-            mp[temp].push_back(arr[i]);
+            // mp[temp].push_back(arr[i]);
+            if(mp.find(temp) == mp.end()){
+                vector<string> v;
+                v.push_back(arr[i]);
+                mp[temp] = v;
+            }else{
+                mp[temp].push_back(arr[i]);
+            }
         }
         for(auto elem: mp){
             res.push_back(elem.second);
