@@ -24,8 +24,8 @@ public:
         find(start,root,main);
         queue<pair<TreeNode*,int>> q;
         q.push({main,0});
-        unordered_set<TreeNode*> s;
-        s.insert(main);
+        unordered_set<TreeNode*> isInfected;
+        isInfected.insert(main);
         unordered_map<TreeNode*,TreeNode*> mp;
         fillParent(mp,root);
         int maxlevel = INT_MIN;
@@ -35,21 +35,21 @@ public:
             maxlevel = max(maxlevel,level);
             q.pop();
             if(temp->left){
-                if(s.find(temp->left) == s.end()){
+                if(isInfected.find(temp->left) == isInfected.end()){
                     q.push({temp->left,level+1});
-                    s.insert(temp->left);
+                    isInfected.insert(temp->left);
                 }
             }
             if(temp->right){
-                if(s.find(temp->right) == s.end()){
+                if(isInfected.find(temp->right) == isInfected.end()){
                     q.push({temp->right,level+1});
-                    s.insert(temp->right);
+                    isInfected.insert(temp->right);
                 }
             }
             if(mp.find(temp) != mp.end()){
-                if(s.find(mp[temp]) == s.end()){
+                if(isInfected.find(mp[temp]) == isInfected.end()){
                     q.push({mp[temp],level+1});
-                    s.insert(mp[temp]);
+                    isInfected.insert(mp[temp]);
                 }
             }
         }
