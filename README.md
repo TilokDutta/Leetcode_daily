@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
