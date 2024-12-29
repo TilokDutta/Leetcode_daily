@@ -6,12 +6,12 @@ public:
         for(int el : nums){
             mp[el]++;
         }
-        priority_queue<pi> pq;
+        priority_queue<pi,vector<pi>,greater<pi>> pq;
         for(auto elem : mp){
             pq.push({elem.second,elem.first});
-            // if(pq.size() > k){
-            //     pq.pop();
-            // }
+            if(pq.size() > k){
+                pq.pop();
+            }
         }
         vector<int> res;
         for(int i = 0; i < k; i++){
