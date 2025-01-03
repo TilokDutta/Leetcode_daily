@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/TilokDutta/Leetcode_daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 ## Geometry
 |  |
 | ------- |
