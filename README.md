@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
+| [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
+| [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 ## Sliding Window
 |  |
 | ------- |
