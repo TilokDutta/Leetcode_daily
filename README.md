@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
