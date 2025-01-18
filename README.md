@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
