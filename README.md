@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/TilokDutta/Leetcode_daily/tree/master/2317-count-collisions-on-a-road) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3202-high-access-employees](https://github.com/TilokDutta/Leetcode_daily/tree/master/3202-high-access-employees) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -296,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
