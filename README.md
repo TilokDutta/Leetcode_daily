@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3202-high-access-employees](https://github.com/TilokDutta/Leetcode_daily/tree/master/3202-high-access-employees) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/TilokDutta/Leetcode_daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3202-high-access-employees](https://github.com/TilokDutta/Leetcode_daily/tree/master/3202-high-access-employees) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Geometry
 |  |
 | ------- |
