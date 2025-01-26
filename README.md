@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2329-maximum-product-after-k-increments](https://github.com/TilokDutta/Leetcode_daily/tree/master/2329-maximum-product-after-k-increments) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/TilokDutta/Leetcode_daily/tree/master/2329-maximum-product-after-k-increments) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
+| [2329-maximum-product-after-k-increments](https://github.com/TilokDutta/Leetcode_daily/tree/master/2329-maximum-product-after-k-increments) |
 | [2850-construct-the-longest-new-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/2850-construct-the-longest-new-string) |
 ## Number Theory
 |  |
