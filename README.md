@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/TilokDutta/Leetcode_daily/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Quickselect
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2850-construct-the-longest-new-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/2850-construct-the-longest-new-string) |
 ## Number Theory
@@ -351,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Game Theory
+|  |
+| ------- |
+| [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 <!---LeetCode Topics End-->
