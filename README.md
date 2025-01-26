@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3202-high-access-employees](https://github.com/TilokDutta/Leetcode_daily/tree/master/3202-high-access-employees) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
+| [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2850-construct-the-longest-new-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/2850-construct-the-longest-new-string) |
 ## Number Theory
 |  |
