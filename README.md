@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TilokDutta/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
