@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
+| [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
+| [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TilokDutta/Leetcode_daily/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
