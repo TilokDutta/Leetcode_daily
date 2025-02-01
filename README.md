@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2850-construct-the-longest-new-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/2850-construct-the-longest-new-string) |
 ## Memoization
 |  |
@@ -379,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
