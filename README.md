@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
