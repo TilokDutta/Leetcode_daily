@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
