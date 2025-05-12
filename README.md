@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0120-triangle) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TilokDutta/Leetcode_daily/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
