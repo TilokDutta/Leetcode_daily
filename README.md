@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
