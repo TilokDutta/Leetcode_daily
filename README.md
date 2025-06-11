@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TilokDutta/Leetcode_daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0074-search-a-2d-matrix) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/TilokDutta/Leetcode_daily/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0216-combination-sum-iii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
