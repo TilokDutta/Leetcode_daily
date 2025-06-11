@@ -1,40 +1,21 @@
 class Solution {
 public:
-    bool isPossible(int col, int row, vector<string> boards, int n){
-        int dupcol = col;
-        int duprow = row;
-        while(row >= 0 && col >= 0){
-            if(boards[row][col] == 'Q') return false;
-            col--;
-            row--;
-        }
-        row = duprow;
-        col = dupcol;
-        while(col >= 0){
-            if(boards[row][col] == 'Q') return false;
-            col--;
-
-        }
-        row = duprow;
-        col = dupcol;
-        while(row < n && col >= 0){
-            if(boards[row][col] == 'Q') return false;
-            row++;
-            col--;
-        }
-        return true;
-    }
-
-    void solve(vector<vector<string>>& ans, vector<string>& boards, int col, int n){
+    void solve(vector<vector<string>>& ans, vector<string>& boards, int col, int n, vector<int>& leftrow, vector<int>& lowerdia, vector<int>& upperdia){
         if(col == n){
             ans.push_back(boards);
             return;
         }
-        for(int i = 0; i < n; i++){
-            if(isPossible(col,i,boards,n)){
-                boards[i][col] = 'Q';
-                solve(ans,boards,col+1,n);
-                boards[i][col] = '.';
+        for(int row = 0; row < n; row++){
+            if(leftrow[row] == 0 && lowerdia[row+col] == 0 && upperdia[n-1+col-row] == 0){
+                leftrow[row] = 1;
+                lowerdia[row+col] = 1;
+                upperdia[n-1+col-row] = 1;
+                boards[row][col] = 'Q';
+                solve(ans,boards,col+1,n, leftrow,lowerdia,upperdia);
+                leftrow[row] = 0;
+                lowerdia[row+col] = 0;
+                upperdia[n-1+col-row] = 0;
+                boards[row][col] = '.';
             }
         }
     }
@@ -46,7 +27,10 @@ public:
         for(int i = 0; i < n; i++){
             boards[i] = s;
         }
-        solve(ans,boards,0,n);
+        vector<int> leftrow(n,0);
+        vector<int> lowerdia(2*n-1,0);
+        vector<int> upperdia(2*n-1,0);
+        solve(ans,boards,0,n,leftrow, lowerdia, upperdia);
         return ans;
     }
 };
