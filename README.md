@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TilokDutta/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0152-maximum-product-subarray) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
 | [0967-minimum-falling-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0967-minimum-falling-path-sum) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/TilokDutta/Leetcode_daily/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0216-combination-sum-iii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
