@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TilokDutta/Leetcode_daily/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
@@ -478,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
