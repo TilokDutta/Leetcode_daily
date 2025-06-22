@@ -19,7 +19,7 @@ public:
                             color[neighbor] = !color[node];
                             q.push(neighbor);
                         } else if (color[neighbor] == color[node]) {
-                            return false; // same color on both sides → not bipartite
+                            return false;
                         }
                     }
                 }
