@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TilokDutta/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 ## Monotonic Stack
