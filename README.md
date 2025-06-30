@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/TilokDutta/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/TilokDutta/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/TilokDutta/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
