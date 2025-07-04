@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -521,4 +524,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
