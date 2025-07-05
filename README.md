@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [3227-find-missing-and-repeated-values](https://github.com/TilokDutta/Leetcode_daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
