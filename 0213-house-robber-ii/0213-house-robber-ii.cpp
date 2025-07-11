@@ -1,25 +1,28 @@
 class Solution {
 public:
-    int helper(vector<int> dup){
-        int n = dup.size();
-        if(n == 0) return 0;
-        if(n == 1) return dup[0];
-        vector<long long> dp(105);
-        dp[0] = dup[0];
-        dp[1] = max(dup[1],dup[0]);
-        for(int i = 2; i < n; i++){
-            dp[i] = max(dup[i]+dp[i-2], dp[i-1]);
-        }
-        return dp[n-1];
-    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n == 0) return 0;
         if(n == 1) return nums[0];
-        vector<int> dup(nums.begin(),nums.end()-1);
-        long long sum1 = helper(dup);
-        vector<int> dup2(nums.begin()+1,nums.end());
-        long long sum2 = helper(dup2);
-        return max(sum1,sum2);
+        int prev1 = nums[0];
+        int prev2 = 0;
+        for(int i = 1; i < n-1; i++){
+            int pick = nums[i];
+            if(i != 1) pick += prev2;
+            int notPick = 0 + prev1;
+            int curr = max(pick,notPick);
+            prev2 = prev1;
+            prev1 = curr;
+        }
+        int aprev1 = nums[1];
+        int aprev2 = 0;
+        for(int i = 2; i < n; i++){
+            int pick = nums[i];
+            if(i != 1) pick += aprev2;
+            int notPick = 0 + aprev1;
+            int curr = max(pick,notPick);
+            aprev2 = aprev1;
+            aprev1 = curr;
+        }
+        return max(aprev1,prev1);
     }
 };
