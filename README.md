@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [0967-minimum-falling-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
+| [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
+| [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/1250-longest-common-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Monotonic Stack
 |  |
