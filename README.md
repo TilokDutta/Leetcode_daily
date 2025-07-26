@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
