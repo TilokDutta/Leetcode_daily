@@ -38,14 +38,13 @@ public:
         for(int i = 0; i < n; i++){
             mp[find(i)]++;
         }
-        vector<int> s;
+        long long sum = 0;
+        long long count = 0;
+
         for(auto it : mp){
-            s.push_back(it.second);
-        }
-        long long count = 0, sum = 0;
-        for(int i = 0; i < s.size(); i++){
-            count += (long long)s[i] * sum;
-            sum += s[i];
+            count += it.second * (n - sum - it.second);
+            sum += it.second;
+
         }
 
         return count;
