@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/TilokDutta/Leetcode_daily/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/TilokDutta/Leetcode_daily/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/TilokDutta/Leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/TilokDutta/Leetcode_daily/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
