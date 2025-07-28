@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/TilokDutta/Leetcode_daily/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/TilokDutta/Leetcode_daily/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/TilokDutta/Leetcode_daily/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3227-find-missing-and-repeated-values](https://github.com/TilokDutta/Leetcode_daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
