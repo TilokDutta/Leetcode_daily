@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0863-sum-of-distances-in-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TilokDutta/Leetcode_daily/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TilokDutta/Leetcode_daily/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2329-maximum-product-after-k-increments](https://github.com/TilokDutta/Leetcode_daily/tree/master/2329-maximum-product-after-k-increments) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TilokDutta/Leetcode_daily/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2317-count-collisions-on-a-road](https://github.com/TilokDutta/Leetcode_daily/tree/master/2317-count-collisions-on-a-road) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3202-high-access-employees](https://github.com/TilokDutta/Leetcode_daily/tree/master/3202-high-access-employees) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Shortest Path
 |  |
@@ -585,4 +590,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->
