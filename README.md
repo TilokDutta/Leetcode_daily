@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/TilokDutta/Leetcode_daily/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TilokDutta/Leetcode_daily/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/TilokDutta/Leetcode_daily/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/TilokDutta/Leetcode_daily/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Shortest Path
 |  |
 | ------- |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/TilokDutta/Leetcode_daily/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Monotonic Stack
 |  |
 | ------- |
