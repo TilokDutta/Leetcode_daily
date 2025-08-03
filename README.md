@@ -605,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/TilokDutta/Leetcode_daily/tree/master/0820-find-eventual-safe-states) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/TilokDutta/Leetcode_daily/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
