@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TilokDutta/Leetcode_daily/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TilokDutta/Leetcode_daily/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TilokDutta/Leetcode_daily/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TilokDutta/Leetcode_daily/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1876-map-of-highest-peak](https://github.com/TilokDutta/Leetcode_daily/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/TilokDutta/Leetcode_daily/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TilokDutta/Leetcode_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TilokDutta/Leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TilokDutta/Leetcode_daily/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/TilokDutta/Leetcode_daily/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TilokDutta/Leetcode_daily/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
