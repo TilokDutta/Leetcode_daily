@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/TilokDutta/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/TilokDutta/Leetcode_daily/tree/master/0547-number-of-provinces) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TilokDutta/Leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0538-convert-bst-to-greater-tree) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/TilokDutta/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
