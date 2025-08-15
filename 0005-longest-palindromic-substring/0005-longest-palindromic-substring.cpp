@@ -1,14 +1,11 @@
 class Solution {
 public:
     bool isPalindrome(string &s, int left, int right){
-        while(left < right){
-            if(s[left] != s[right]){
-                return false;
-            }
-            left++;
-            right--;
+        if(left >= right) return true;
+        if(s[left] == s[right]){
+            return isPalindrome(s,left+1,right-1);
         }
-        return true;
+        return false;
     }
     string longestPalindrome(string s) {
         int n = s.size();
