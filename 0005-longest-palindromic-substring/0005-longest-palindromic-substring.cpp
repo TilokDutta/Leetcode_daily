@@ -1,14 +1,19 @@
 class Solution {
 public:
-    bool isPalindrome(string &s, int left, int right){
-        if(left >= right) return true;
-        if(s[left] == s[right]){
-            return isPalindrome(s,left+1,right-1);
+    int dp[1001][1001];
+    int isPalindrome(string &s, int left, int right){
+        if(left >= right) return 1;
+        if(dp[left][right] != -1){
+            return dp[left][right];
         }
-        return false;
+        if(s[left] == s[right]){
+            return dp[left][right] = isPalindrome(s,left+1,right-1);
+        }
+        return dp[left][right] = 0;
     }
     string longestPalindrome(string s) {
         int n = s.size();
+        memset(dp,-1,sizeof(dp));
         int length = 0;
         string ans;
         for(int i = 0; i < n; i++){
