@@ -35,7 +35,6 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         solve(head);
         if(n == noNode){
-            ListNode* temp = head;
             head = head->next;
             return head;
         }
