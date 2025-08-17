@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TilokDutta/Leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/TilokDutta/Leetcode_daily/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TilokDutta/Leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/TilokDutta/Leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/TilokDutta/Leetcode_daily/tree/master/2256-count-words-obtained-after-adding-a-letter) |
