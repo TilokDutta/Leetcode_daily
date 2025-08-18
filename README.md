@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/TilokDutta/Leetcode_daily/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TilokDutta/Leetcode_daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TilokDutta/Leetcode_daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TilokDutta/Leetcode_daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Geometry
 |  |
