@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
 | [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/TilokDutta/Leetcode_daily/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1185-find-in-mountain-array) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/TilokDutta/Leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
 | [2245-destroying-asteroids](https://github.com/TilokDutta/Leetcode_daily/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/TilokDutta/Leetcode_daily/tree/master/2329-maximum-product-after-k-increments) |
