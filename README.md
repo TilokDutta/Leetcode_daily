@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/TilokDutta/Leetcode_daily/tree/master/0869-similar-string-groups) |
 | [0967-minimum-falling-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/TilokDutta/Leetcode_daily/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/TilokDutta/Leetcode_daily/tree/master/1036-rotting-oranges) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/TilokDutta/Leetcode_daily/tree/master/1777-determine-if-two-strings-are-close) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/TilokDutta/Leetcode_daily/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
+| [1019-squares-of-a-sorted-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/TilokDutta/Leetcode_daily/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
