@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/TilokDutta/Leetcode_daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0287-find-the-duplicate-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TilokDutta/Leetcode_daily/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/TilokDutta/Leetcode_daily/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
