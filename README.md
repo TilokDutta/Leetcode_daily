@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TilokDutta/Leetcode_daily/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TilokDutta/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TilokDutta/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TilokDutta/Leetcode_daily/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/TilokDutta/Leetcode_daily/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TilokDutta/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TilokDutta/Leetcode_daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TilokDutta/Leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/TilokDutta/Leetcode_daily/tree/master/0283-move-zeroes) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TilokDutta/Leetcode_daily/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0063-unique-paths-ii) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Queue
 |  |
