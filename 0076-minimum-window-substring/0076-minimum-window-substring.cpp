@@ -2,37 +2,34 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         int n = s.size();
-        if(n < t.length()){
-            return "";
-        }
+        int m = t.size();
+        if(n < m) return "";
         unordered_map<char,int> mp;
-        for(char ch : t){
-            mp[ch]++;
+        for(int i = 0; i < m; i++){
+            mp[t[i]]++;
         }
-        int reqCount = t.length();
+        int countReq = m;
         int i = 0; int j = 0;
-        int windowSize = INT_MAX;
-        int start_i = 0;
+        int minSize = INT_MAX;
+        int start = 0;
         while(j < n){
-            char ch = s[j];
-            if(mp[ch] > 0){
-                reqCount--;
+            if(mp[s[j]] > 0){
+                countReq--;
             }
-            mp[ch]--;
-            while(reqCount == 0){
-                int curSize = j-i+1;
-                if(curSize < windowSize){
-                    windowSize = curSize;
-                    start_i = i;
+            while(countReq == 0){
+                if(j-i+1 < minSize){
+                    minSize = j-i+1;
+                    start = i;
                 }
                 mp[s[i]]++;
-                if(mp[s[i]]>0){
-                    reqCount++;
+                if(mp[s[i]] > 0){
+                    countReq++;
                 }
                 i++;
             }
+            mp[s[j]]--;
             j++;
         }
-        return windowSize == INT_MAX ? "" : s.substr(start_i,windowSize);
+        return (minSize == INT_MAX) ? "" : s.substr(start,minSize);
     }
 };
