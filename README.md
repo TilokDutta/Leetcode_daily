@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/TilokDutta/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TilokDutta/Leetcode_daily/tree/master/0155-min-stack) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0735-asteroid-collision](https://github.com/TilokDutta/Leetcode_daily/tree/master/0735-asteroid-collision) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TilokDutta/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TilokDutta/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TilokDutta/Leetcode_daily/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/TilokDutta/Leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/TilokDutta/Leetcode_daily/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TilokDutta/Leetcode_daily/tree/master/0169-majority-element) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/TilokDutta/Leetcode_daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
 | [0371-sum-of-two-integers](https://github.com/TilokDutta/Leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
