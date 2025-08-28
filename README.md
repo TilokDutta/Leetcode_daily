@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/TilokDutta/Leetcode_daily/tree/master/0155-min-stack) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/TilokDutta/Leetcode_daily/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0735-asteroid-collision](https://github.com/TilokDutta/Leetcode_daily/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/TilokDutta/Leetcode_daily/tree/master/0739-daily-temperatures) |
 | [2317-count-collisions-on-a-road](https://github.com/TilokDutta/Leetcode_daily/tree/master/2317-count-collisions-on-a-road) |
 ## Linked List
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/TilokDutta/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/TilokDutta/Leetcode_daily/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/TilokDutta/Leetcode_daily/tree/master/0739-daily-temperatures) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
 | [0869-similar-string-groups](https://github.com/TilokDutta/Leetcode_daily/tree/master/0869-similar-string-groups) |
 | [0967-minimum-falling-path-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0967-minimum-falling-path-sum) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/TilokDutta/Leetcode_daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Queue
 |  |
 | ------- |
