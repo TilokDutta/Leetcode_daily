@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/TilokDutta/Leetcode_daily/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [0869-similar-string-groups](https://github.com/TilokDutta/Leetcode_daily/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TilokDutta/Leetcode_daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TilokDutta/Leetcode_daily/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/TilokDutta/Leetcode_daily/tree/master/0852-friends-of-appropriate-ages) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/TilokDutta/Leetcode_daily/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/TilokDutta/Leetcode_daily/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TilokDutta/Leetcode_daily/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -629,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/TilokDutta/Leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1659-get-the-maximum-score](https://github.com/TilokDutta/Leetcode_daily/tree/master/1659-get-the-maximum-score) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
