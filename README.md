@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/TilokDutta/Leetcode_daily/tree/master/0355-design-twitter) |
 ## Array
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/TilokDutta/Leetcode_daily/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TilokDutta/Leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0433-minimum-genetic-mutation) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/TilokDutta/Leetcode_daily/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/TilokDutta/Leetcode_daily/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/TilokDutta/Leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/TilokDutta/Leetcode_daily/tree/master/0658-find-k-closest-elements) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/TilokDutta/Leetcode_daily/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/TilokDutta/Leetcode_daily/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/TilokDutta/Leetcode_daily/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
