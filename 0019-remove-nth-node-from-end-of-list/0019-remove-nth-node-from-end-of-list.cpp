@@ -10,35 +10,28 @@
  */
 class Solution {
 public:
-    int noNode = 0;
-    int solve(ListNode* head){
-        if(head == nullptr){
-            return noNode;
+    int size = 0;
+    void ListSize(ListNode* head){
+        while(head){
+            head = head->next;
+            size++;
         }
-        noNode++;
-        return solve(head->next);
-    }
-    int node = 0;
-    void del(ListNode* head, int n){
-        if(!head || !head->next){
-            return;
-        }
-        node++;
-        if(node == noNode - n){
-            ListNode* temp = head->next;
-            head->next = head->next->next;
-            temp->next = nullptr;
-            return;
-        }
-        del(head->next,n);
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        solve(head);
-        if(n == noNode){
-            head = head->next;
-            return head;
+        ListSize(head);
+        if(size == 1 && size == n) return nullptr;
+        if(size == n) return head->next;
+        int upto = size - n;
+        ListNode* cur = head;
+        while(cur){
+            if(upto == 1){
+                ListNode* nextToNext = cur->next->next;
+                cur->next->next = nullptr;
+                cur->next = nextToNext;
+            }
+            cur = cur->next;
+            upto--;
         }
-        del(head,n);
         return head;
     }
 };
