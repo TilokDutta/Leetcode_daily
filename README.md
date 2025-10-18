@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/TilokDutta/Leetcode_daily/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/TilokDutta/Leetcode_daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TilokDutta/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TilokDutta/Leetcode_daily/tree/master/0299-bulls-and-cows) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/TilokDutta/Leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TilokDutta/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TilokDutta/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TilokDutta/Leetcode_daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/TilokDutta/Leetcode_daily/tree/master/0295-find-median-from-data-stream) |
