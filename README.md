@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/TilokDutta/Leetcode_daily/tree/master/1014-k-closest-points-to-origin) |
+| [1195-distribute-candies-to-people](https://github.com/TilokDutta/Leetcode_daily/tree/master/1195-distribute-candies-to-people) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/TilokDutta/Leetcode_daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1788-stone-game-vi](https://github.com/TilokDutta/Leetcode_daily/tree/master/1788-stone-game-vi) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/TilokDutta/Leetcode_daily/tree/master/0735-asteroid-collision) |
+| [1195-distribute-candies-to-people](https://github.com/TilokDutta/Leetcode_daily/tree/master/1195-distribute-candies-to-people) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2317-count-collisions-on-a-road](https://github.com/TilokDutta/Leetcode_daily/tree/master/2317-count-collisions-on-a-road) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TilokDutta/Leetcode_daily/tree/master/2847-find-maximum-number-of-string-pairs) |
