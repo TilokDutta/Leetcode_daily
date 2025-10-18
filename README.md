@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TilokDutta/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/TilokDutta/Leetcode_daily/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/TilokDutta/Leetcode_daily/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/TilokDutta/Leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TilokDutta/Leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/TilokDutta/Leetcode_daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/TilokDutta/Leetcode_daily/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TilokDutta/Leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/TilokDutta/Leetcode_daily/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/TilokDutta/Leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/TilokDutta/Leetcode_daily/tree/master/0371-sum-of-two-integers) |
