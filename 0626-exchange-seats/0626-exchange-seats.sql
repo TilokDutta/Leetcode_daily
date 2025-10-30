@@ -1,8 +1,12 @@
 # Write your MySQL query statement below
-select new_id as id, student
-from (SELECT id, student, 
-ifnull((case when id %2=1 and id != (select count(*) from Seat) then id+1
-when id%2=0 then id-1
-end),id) as new_id
-from Seat) q
-order by new_id asc
+SELECT new_id AS id,student
+FROM 
+    (SELECT id, student, 
+    IFNULL(
+        (CASE WHEN id %2=1 AND id != (SELECT count(*) 
+        FROM Seat) THEN id+1
+        WHEN id%2=0 THEN id-1
+        END),
+    id) AS new_id
+    FROM Seat) q
+ORDER BY new_id ASC
