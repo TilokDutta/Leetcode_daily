@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/TilokDutta/Leetcode_daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TilokDutta/Leetcode_daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/TilokDutta/Leetcode_daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3861-minimum-capacity-box](https://github.com/TilokDutta/Leetcode_daily/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
