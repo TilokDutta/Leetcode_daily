@@ -5,8 +5,8 @@ public:
             return 0;
         }
         if(s.size() == 2) return -1;
-        char mini = 'z';
-        char maxi = 'a';
+        char mini = *min_element(s.begin(),s.end());
+        char maxi = *max_element(s.begin(),s.end());
         for(int i = 0; i < s.size(); i++){
             if(s[i]  <= mini){
                 mini = s[i];
