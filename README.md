@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2850-construct-the-longest-new-string](https://github.com/TilokDutta/Leetcode_daily/tree/master/2850-construct-the-longest-new-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/TilokDutta/Leetcode_daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3870-count-commas-in-range](https://github.com/TilokDutta/Leetcode_daily/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |
