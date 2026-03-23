@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/TilokDutta/Leetcode_daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3861-minimum-capacity-box](https://github.com/TilokDutta/Leetcode_daily/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/TilokDutta/Leetcode_daily/tree/master/3862-find-the-smallest-balanced-index) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/TilokDutta/Leetcode_daily/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/TilokDutta/Leetcode_daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2339-k-divisible-elements-subarrays](https://github.com/TilokDutta/Leetcode_daily/tree/master/2339-k-divisible-elements-subarrays) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/TilokDutta/Leetcode_daily/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
