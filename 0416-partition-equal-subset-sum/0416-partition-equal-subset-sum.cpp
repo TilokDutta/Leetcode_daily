@@ -19,7 +19,7 @@ public:
         int n = nums.size();
         int target = accumulate(nums.begin(),nums.end(),0);
         if(target % 2 != 0) return false;
-        vector<vector<int>> dp(n,vector<int> (target+1,-1));
+        vector<vector<int>> dp(n,vector<int> ((target/2)+1,-1));
         return f(n-1,target/2,nums,dp);
     }
 };
