@@ -4,7 +4,7 @@ public:
         if(target == 0) return dp[ind][target] = 0;
         if(ind  == 0){
             if(target % coins[ind] == 0) return dp[ind][target] = target/coins[ind];
-            else return 1e9;
+            else return dp[ind][target] = 1e9;
         }
         if(dp[ind][target] != -1) return dp[ind][target];
         int notTake = 0 + f(ind-1,target,coins,dp);
