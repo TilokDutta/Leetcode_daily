@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/TilokDutta/Leetcode_daily/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TilokDutta/Leetcode_daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TilokDutta/Leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/TilokDutta/Leetcode_daily/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TilokDutta/Leetcode_daily/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/TilokDutta/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/TilokDutta/Leetcode_daily/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TilokDutta/Leetcode_daily/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/TilokDutta/Leetcode_daily/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/TilokDutta/Leetcode_daily/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/TilokDutta/Leetcode_daily/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/TilokDutta/Leetcode_daily/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/TilokDutta/Leetcode_daily/tree/master/0813-all-paths-from-source-to-target) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/TilokDutta/Leetcode_daily/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
