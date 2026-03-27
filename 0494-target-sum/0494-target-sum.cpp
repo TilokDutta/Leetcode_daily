@@ -13,7 +13,6 @@ public:
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n= nums.size();
-        if(n == 1 && nums[0] == 0 && target == 0) return 2;
         return f(nums.size() - 1, target,0,nums);
     }
 };
