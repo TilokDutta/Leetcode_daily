@@ -1,23 +1,24 @@
 class Solution {
 public:
-    int f(int ind, int target, int sum, vector<int>& nums, vector<vector<int>>& dp, int total){
+    int f(int ind,int target, vector<int> &nums){
         if(ind == 0){
-            int count = 0;
-            if(sum + nums[0] == target) count++;
-            if(sum - nums[0] == target) count++;
-            return dp[ind][sum + total] = count;
+            if(target ==0 && nums[ind] == 0) return 2;
+            if(target == 0) return 1;
+            return target == nums[ind];
         }
-        if(dp[ind][sum + total] != -1) return dp[ind][sum + total];
-        int sub = f(ind-1, target, sum - nums[ind], nums, dp, total);
-        int add = f(ind-1, target, sum + nums[ind], nums, dp, total);
-        return dp[ind][sum + total] = sub + add;
+        int notTake = f(ind-1,target,nums);
+        int take = 0;
+        if(target >= nums[ind]){
+            take = f(ind-1,target-nums[ind],nums);
+            
+        }
+        return take + notTake;
     }
-
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
-        int total = accumulate(nums.begin(), nums.end(), 0);
-        // if(abs(target) > total) return 0;
-        vector<vector<int>> dp(n, vector<int>(2*total+1, -1));
-        return f(n-1, target, 0, nums, dp, total);
+        int total = accumulate(nums.begin(),nums.end(),0);
+        if(total - target < 0 || (total - target) %2 != 0) return 0;
+        int tar = (total-target)/2;
+        return f(n-1,tar,nums);
     }
 };
